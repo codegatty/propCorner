@@ -1,0 +1,9 @@
+.cat-mod{
+    width:100%;
+    background-color:azure;
+    border-bottom-width: 4px!important;
+    border-bottom-color: #fd3809!important;
+    border-bottom-style: solid!important;
+    border-radius: 0px!important;
+    color:black;
+}

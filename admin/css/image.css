@@ -1,0 +1,18 @@
+.image a{
+    display: none;
+    position:absolute;
+    top: 50px;
+    left: 120px;
+    color: black;
+    border: 2px solid black;
+}
+
+.image:hover{
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+    transition: filter 0.2s ease-in-out;
+}
+
+.image:hover a{
+    display:inline-block;
+}

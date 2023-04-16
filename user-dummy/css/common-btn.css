@@ -1,0 +1,16 @@
+
+.style-btn{
+    border-width: 1px!important;
+    border-color: #f48b3f!important;
+    border-radius: 0px!important;
+    color: red!important;
+}
+
+.style-btn:hover{
+    background-color: #f48b3f!important;
+}
+
+.disable{ 
+    pointer-events: none!important; 
+    cursor: default!important; 
+}

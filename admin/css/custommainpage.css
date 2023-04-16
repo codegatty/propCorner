@@ -1,0 +1,17 @@
+.mod-main-page{
+    margin-top:-30px!important;
+    border: 0.5px solid grey;
+    padding: 30px;
+    background-color:white!important;
+}
+
+.mod-main-page h1{
+    margin-bottom: 10px;
+}
+
+.header-right-right{
+    float: right;
+    clear: right;
+    position: absolute;
+}
+
